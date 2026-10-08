@@ -1,1 +1,0 @@
-import{R as o}from"./Registration-BzeSZR2I.js";import{d as e,j as r,q as t}from"../index-ej9RegWt.js";const c=e({__name:"personalInformationModal",setup(a){return(n,s)=>(r(),t(o,{editMode:!0}))}});export{c as _};
